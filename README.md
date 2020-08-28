@@ -5,6 +5,7 @@
 
 >1.  node-fetch
 >2.  fs
+
 ---
-##### <p align="center">  Made using the randomuser api </p> #####
+##### <p align="center">  Made using the [randomuser api](https://randomuser.me) </p> #####
 ---
