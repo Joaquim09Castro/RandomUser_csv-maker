@@ -9,7 +9,7 @@
 * To use it run:
 ```bash
 // clone the repository
-git clone https://github.com/Joaquim09Castro/RandomUser_csv-maker
+git clone git@github.com:Joaquim09Castro/RandomUser_csv-maker.git
 
 // install dependencies
 npm install
