@@ -8,13 +8,13 @@
 ---
 * To use it run:
 ```bash
-// clone the repository
+# clone the repository
 git clone git@github.com:Joaquim09Castro/RandomUser_csv-maker.git
 
-// install dependencies
+# install dependencies
 npm install
 
-// executes code
+# execute code
 node index.js
 ```
 ---
